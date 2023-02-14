@@ -1,0 +1,2 @@
+this test is uses json to create data box;
+like shopping product box;
