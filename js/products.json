@@ -35,5 +35,14 @@
       "addtocart": "#later",
       "details": "Later"
     }
+  },
+  {
+    "imgsrc": "imgs/product-555.jpg",
+    "title": "Lenovo Tablet",
+    "description": "64 GB Dist width 8GB RAM 4k screen with IEEE 802.11n wifi tablet it's come with headphone case and keyboard with pen",
+    "links": {
+      "addtocart": "#later",
+      "details": "#later"
+    }
   }
 ]
